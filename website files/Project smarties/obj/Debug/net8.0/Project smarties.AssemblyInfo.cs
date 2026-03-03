@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project smarties")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba2c6ea9f2568a52505130c5b618fd98b8c6cd5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88303e5fbcd079c04098bb0a568016c26fe9b5ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project smarties")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project smarties")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

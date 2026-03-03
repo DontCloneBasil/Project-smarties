@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\userapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\userapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\project smarties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:project smarties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\leaderboardsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\leaderboardsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\quizresultapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\quizresultapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\quizapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\quizapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizApplicationData.cs",
+              "RelativeDocumentMoniker": "Models\\QuizApplicationData.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizApplicationData.cs",
+              "RelativeToolTip": "Models\\QuizApplicationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:37:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaderboardsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\LeaderboardsApplicationData.cs",
+              "RelativeDocumentMoniker": "Models\\LeaderboardsApplicationData.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\LeaderboardsApplicationData.cs",
+              "RelativeToolTip": "Models\\LeaderboardsApplicationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:37:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizResultApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizResultApplicationData.cs",
+              "RelativeDocumentMoniker": "Models\\QuizResultApplicationData.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizResultApplicationData.cs",
+              "RelativeToolTip": "Models\\QuizResultApplicationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:36:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\UserApplicationData.cs",
+              "RelativeDocumentMoniker": "Models\\UserApplicationData.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\UserApplicationData.cs",
+              "RelativeToolTip": "Models\\UserApplicationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:33:37.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project smarties",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Project smarties.csproj",
+              "RelativeDocumentMoniker": "Project smarties.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Project smarties.csproj",
+              "RelativeToolTip": "Project smarties.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T10:19:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T10:18:08.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

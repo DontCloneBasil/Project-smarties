@@ -1,0 +1,31 @@
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.staticwebassets.runtime.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.exe
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.deps.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.runtimeconfig.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.dll
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\bin\Debug\net8.0\Project smarties.pdb
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.AssemblyInfoInputs.cache
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.AssemblyInfo.cs
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.RazorAssemblyInfo.cache
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.RazorAssemblyInfo.cs
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.sourcelink.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets\msbuild.Project smarties.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets\msbuild.build.Project smarties.props
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project smarties.props
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project smarties.props
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\scopedcss\bundle\Project smarties.styles.css
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\scopedcss\projectbundle\Project smarties.bundle.scp.css
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.dll
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\refint\Project smarties.dll
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.pdb
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\Project smarties.genruntimeconfig.cache
+C:\Users\User\Documents\projects\Project-smarties\website files\Project smarties\obj\Debug\net8.0\ref\Project smarties.dll

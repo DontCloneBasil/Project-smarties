@@ -1,0 +1,11 @@
+@project_smarties_HostAddress = https://localhost:5014
+
+GET {{project_smarties_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{project_smarties_HostAddress}}/todos/1
+Accept: application/json
+
+###

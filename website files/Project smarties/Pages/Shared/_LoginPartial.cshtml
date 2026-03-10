@@ -2,18 +2,17 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 @inject UserManager<Project_smarties.Models.UserApplicationData> UserDataManager
-@inject Project_smarties.Data.ApplicationDbContext DbContext
+@inject Data.ApplicationDbContext DbContext
 
 @{
     var userdata = await UserDataManager.GetUserAsync(User);
-    //var teamdata = await TeamDataManager.FindByNameAsync(userdata.TeamName);
+    
 
 }
 
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
-    <p>your id is @userdata?.Id</p>
     <!--- check if the user is an admin or regular user --->
     @if(User.IsInRole("admin"))
         {

@@ -3,61 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\migrations\\20260303114109_userquizleaderboardschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:migrations\\20260303114109_userquizleaderboardschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\userapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\userapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\project smarties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:project smarties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\leaderboardsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\leaderboardsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\quizresultapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\quizresultapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\models\\quizapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:models\\quizapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|c:\\users\\user\\documents\\projects\\project-smarties\\website files\\project smarties\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42D71C6-6797-47AC-BCB0-D69A0006ADE7}|Project smarties.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,174 +40,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.AspNetUsers.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUsers.sql",
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-03T11:59:55.951Z"
+              "WhenOpened": "2026-03-05T14:30:07.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.AspNetUserRoles.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-03T11:59:45.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T11:56:24.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T11:46:16.825Z",
+              "WhenOpened": "2026-03-05T12:50:04.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T12:49:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T12:48:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T12:42:04.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "dbo.AspNetRoles.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project_smarties/True/SqlTable/dbo.AspNetRoles.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-03T11:44:18.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260303114109_UserQuizLeaderboardSchema.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Migrations\\20260303114109_UserQuizLeaderboardSchema.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260303114109_UserQuizLeaderboardSchema.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Migrations\\20260303114109_UserQuizLeaderboardSchema.cs",
-              "RelativeToolTip": "Migrations\\20260303114109_UserQuizLeaderboardSchema.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:41:09.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:40:02.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-03T11:26:56.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:19:08.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "QuizApplicationData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizApplicationData.cs",
-              "RelativeDocumentMoniker": "Models\\QuizApplicationData.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizApplicationData.cs",
-              "RelativeToolTip": "Models\\QuizApplicationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:37:50.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LeaderboardsApplicationData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\LeaderboardsApplicationData.cs",
-              "RelativeDocumentMoniker": "Models\\LeaderboardsApplicationData.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\LeaderboardsApplicationData.cs",
-              "RelativeToolTip": "Models\\LeaderboardsApplicationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:37:24.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "QuizResultApplicationData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizResultApplicationData.cs",
-              "RelativeDocumentMoniker": "Models\\QuizResultApplicationData.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\QuizResultApplicationData.cs",
-              "RelativeToolTip": "Models\\QuizResultApplicationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:36:45.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserApplicationData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\UserApplicationData.cs",
-              "RelativeDocumentMoniker": "Models\\UserApplicationData.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Models\\UserApplicationData.cs",
-              "RelativeToolTip": "Models\\UserApplicationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:33:37.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Project smarties.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Project smarties.csproj",
-              "RelativeDocumentMoniker": "Project smarties.csproj",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Project smarties.csproj",
-              "RelativeToolTip": "Project smarties.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T10:19:51.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\projects\\Project-smarties\\website files\\Project smarties\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T10:18:08.773Z"
+              "WhenOpened": "2026-03-05T12:38:34.593Z",
+              "EditorCaption": ""
             }
           ]
         }

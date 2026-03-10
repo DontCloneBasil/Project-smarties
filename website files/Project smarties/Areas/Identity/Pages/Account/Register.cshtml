@@ -1,0 +1,63 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-ld-6 mx-auto rounder border p-3">
+        <h2 class="text-center mb-3">sign up.</h2>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+
+            <!-- Name -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label" asp-for="Input.Name">UserName</label>
+                <div class="col-sm-8">
+                    <input asp-for="Input.Name" class="form-control" aria-required="true" placeholder="username" />
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Email -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label" asp-for="Input.Email">Email</label>
+                <div class="col-sm-8">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Password -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label" asp-for="Input.Password">Password</label>
+                <div class="col-sm-8">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- ConfirmPassword -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label" asp-for="Input.ConfirmPassword">ConfirmPassword</label>
+                <div class="col-sm-8">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button id="registerSubmit" type="submit" class="btn btn-primary">Register</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <button class="btn  btn-outline-primary" asp-area="" asp-page="/Index">cancel</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>

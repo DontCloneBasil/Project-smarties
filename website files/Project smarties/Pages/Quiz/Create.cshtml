@@ -1,0 +1,105 @@
+﻿@page
+@model Project_smarties.Pages.Quiz.CreateModel
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Models.UserApplicationData> UserDataManager
+@inject SignInManager<IdentityUser> SignInManager
+
+@{
+    ViewData["Title"] = "Create";
+    //redirects the user to the log in menu when not logged in
+    if (!SignInManager.IsSignedIn(User))
+    {
+        Response.Redirect("/Identity/Account/Login");
+    }
+    //redirects any logged in accounts with the "User" back to the home page
+    if (User.IsInRole("user"))
+    {
+        Response.Redirect("/Index");
+    }
+    var UserData = await UserDataManager.GetUserAsync(User);
+}
+
+<h1>Create quiz</h1>
+
+<h4>QuizApplicationData</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Input.QuizName" class="control-label"></label>
+                <input asp-for="Input.QuizName" class="form-control" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Input.QuizTheme" class="control-label"></label>
+                <input asp-for="Input.QuizTheme" class="form-control" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Input.QuestionCount" class="control-label"></label>
+                <input asp-for="Input.QuestionCount" class="form-control" aria-required="true" />
+            </div>
+            <table>
+                <tr>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <!-- makes an amount of questions fields based on amount of desired questions -->
+                @for (int i = 0; i < Model.QuestionsAmount; i++)
+                {
+                    <tr>
+                        <td>
+                            <div class="form-group">
+                                <span class="text-danger">*</span>
+                                <!-- input for the list item -->
+                                <label asp-for="Input.Question[i]" class="control-label">question @(i + 1)</label>
+                                <input asp-for="Input.Question[i]" class="form-control" aria-required="true" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="form-group">
+                                <span class="text-danger">*</span>
+                                <!-- input for the list item -->
+                                <label asp-for="Input.Answer[i]" class="control-label">answer @(i + 1)</label>
+                                <input asp-for="Input.Answer[i]" class="form-control" aria-required="true" />
+                            </div>
+                        </td>
+                    </tr>
+                }
+                <tr>
+                    <td>
+                        <div class="offset-sm-4 col-sm-4 d-grid">
+                            @{
+                                <!-- changes button text depending on wether the amount of questions has been met -->
+                                if (Model.QuestionsAmount >= 10)
+                                {
+                                    <button id="registerSubmit" type="submit" class="btn btn-primary">create quiz</button>
+                                }
+                                else if (Model.QuestionsAmount < 10 && Model.QuestionsAmount != 0 || Model.QuestionsAmount == 0)
+                                {
+                                    <button id="registerSubmit" type="submit" class="btn btn-primary">set question amount</button>
+                                }
+                            }
+                        </div>
+                    </td>
+                    <td>
+                        <div class="col-sm-4 d-grid">
+                            <button class="btn  btn-outline-primary" asp-page="./Index">cancel</button>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

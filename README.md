@@ -5,7 +5,4 @@
 
 # design documentation
 * [figma design](https://www.figma.com/design/3uB4CW9IVYODcOBoEHgKON/project-smarties-projectboard?node-id=0-1&t=FaNEwhNXDxZH9yHi-1)
-* [drawio for accessing the ERD](https://app.diagrams.net)
-  -take the erd file from the github.
-  -open diagram.drawio.
-  -the select file, open from and then device and select 'Smarties erd.drawio'
+* [drawio for accessing the ERD]([https://app.diagrams.net](https://drive.google.com/file/d/1VCTT_d0idO49GVNrOeX5GArF6c5ENEMe/view?usp=sharing))

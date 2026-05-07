@@ -1,0 +1,60 @@
+﻿@page
+@model Project_smarties.Pages.Quiz.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.QuizApplicationData[0].QuizName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuizApplicationData[0].QuizTheme)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuizApplicationData[0].questionCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuizApplicationData[0].questions)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuizApplicationData[0].answers)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.QuizApplicationData) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuizName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuizTheme)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.questionCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.questions)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.answers)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.QuizId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.QuizId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.QuizId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

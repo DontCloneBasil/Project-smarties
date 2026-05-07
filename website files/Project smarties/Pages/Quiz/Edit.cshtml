@@ -1,0 +1,73 @@
+﻿@page
+@model Project_smarties.Pages.Quiz.EditModel
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Models.UserApplicationData> UserDataManager
+@inject SignInManager<IdentityUser> SignInManager
+
+@{
+    ViewData["Title"] = "edit";
+    //redirects the user to the log in menu when not logged in
+    if (!SignInManager.IsSignedIn(User))
+    {
+        Response.Redirect("/Identity/Account/Login");
+    }
+    //redirects any logged in accounts with the "User" back to the home page
+    if (User.IsInRole("user"))
+    {
+        Response.Redirect("/Index");
+    }
+    var UserData = await UserDataManager.GetUserAsync(User);
+}
+<h1>Edit</h1>
+
+<h4>QuizApplicationData</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="QuizApplicationData.QuizId" />
+            <div class="form-group">
+<span class="text-danger">*</span>
+                <label asp-for="QuizApplicationData.QuizName" class="control-label"></label>
+                <input asp-for="QuizApplicationData.QuizName" class="form-control" aria-required="true"/>
+                <span asp-validation-for="QuizApplicationData.QuizName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+<span class="text-danger">*</span>
+                <label asp-for="QuizApplicationData.QuizTheme" class="control-label"></label>
+                <input asp-for="QuizApplicationData.QuizTheme" class="form-control" aria-required="true"/>
+                <span asp-validation-for="QuizApplicationData.QuizTheme" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+<span class="text-danger">*</span>
+                <label asp-for="QuizApplicationData.questionCount" class="control-label"></label>
+                <input asp-for="QuizApplicationData.questionCount" class="form-control" aria-required="true"/>
+                <span asp-validation-for="QuizApplicationData.questionCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+<span class="text-danger">*</span>
+                <label asp-for="QuizApplicationData.questions" class="control-label"></label>
+                <input asp-for="QuizApplicationData.questions" class="form-control" aria-required="true"/>
+                <span asp-validation-for="QuizApplicationData.questions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+<span class="text-danger">*</span>
+                <label asp-for="QuizApplicationData.answers" class="control-label"></label>
+                <input asp-for="QuizApplicationData.answers" class="form-control" aria-required="true"/>
+                <span asp-validation-for="QuizApplicationData.answers" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
